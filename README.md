@@ -1,0 +1,2 @@
+# goScrape
+go lang scraper
